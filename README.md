@@ -14,4 +14,4 @@ This project is a plane management system developed for the semester 2 coursewor
 - **Java:** The core programming language for developing the system.
 
 ## Contributors
-- Misal Silva
+- Misal Silva (https://github.com/MisalSilva)
